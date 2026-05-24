@@ -8,7 +8,7 @@ Uma Landing Page responsiva, fluida e feita com muito carinho, desenvolvida para
 
 O planejamento visual, paleta de cores e tipografia foram desenhados e centralizados no Figma.
 
-- **Link do Projeto no Figma:** [Design do Sistema - Livre Trama](https://www.figma.com/design/xlXTGeSpsRLpTJlFvoUVbo/KW?node-id=28-335)
+- **Link do Projeto no Figma:** [Design do Sistema - Livre Trama](https://www.figma.com/design/x5lXn4jmwVsplbiO6KkygG/Projetos?node-id=0-1&t=SW9Y2JRY2nTxCRaB-1)
 
 ---
 
@@ -68,4 +68,4 @@ Garantia de navegação completa sem o uso de mouse:
 
 ---
 
-Achei muito divertido montar o site. Veio em uma hora perfeita, minha irmã precisava de uma landing page pro atelier de bordados e eu de um projeto. Decidimos a identidade visual juntas de acordo com as cores que ela utiliza já nos bordados e nas fotos de divulgação do instagram, fiz o design do que queria pra algumas páginas no figma e depois validei tudo com ela. Foi um processo gradual, tranquilo e feliz, unindo o desenvolvimento com arte. 🧵✨
+Achei muito divertido montar o site. Veio em uma hora perfeita, minha irmã precisava de uma landing page pro atelier de bordados e eu de um projeto. Decidimos a identidade visual juntas de acordo com as cores e elementos que ela já utiliza nos bordados e nas fotos de divulgação do instagram, fiz o design do que queria pra algumas páginas no figma e depois validei tudo com ela. Foi um processo gradual, tranquilo e feliz, unindo o desenvolvimento com arte. 🧵✨
